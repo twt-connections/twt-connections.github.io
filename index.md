@@ -1,3 +1,1 @@
-### TWT-Connections
-
-# Company Connector
+# Company Connector by TWT Connections
