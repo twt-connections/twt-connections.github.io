@@ -19,3 +19,4 @@ For job postings or information about an upcoming internship, organizations can 
 
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 Organization Page: https://github.com/twt-connections
+Current Milestone: https://github.com/twt-connections/connections/projects/1
