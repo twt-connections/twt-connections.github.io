@@ -18,3 +18,4 @@ Organizations can include company background information, which skills they are 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
+Organization Page: https://github.com/twt-connections
