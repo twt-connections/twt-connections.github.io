@@ -1,6 +1,6 @@
 # RecruitingGrounds 
-### by TWT Connections
 
+## About
 For the computing professional, finding the right job-placement is a challenge. For computing firms, finding the right candidates at the right time is just as difficult. RecruitingGrounds connects employers with future employees and potential interns with mentors, allowing for individuals and organizations to seek one another out based on qualifications and needs in a user-friendly and convenient fashion.
 
 <img src="LandingPage.png"/>
@@ -17,6 +17,12 @@ Organizations can include company background information, which skills they are 
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
+Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
+Current Milestone (M2): https://github.com/twt-connections/recruiting-grounds/projects/2
+
+### Completed Milestones
+First Milestone (M1): <a href="https://github.com/twt-connections/connections/projects/1">https://github.com/twt-connections/connections/projects/1</a>
+
+### TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a> <br/>
-Current Milestone: <a href="https://github.com/twt-connections/connections/projects/1">https://github.com/twt-connections/connections/projects/1</a>
