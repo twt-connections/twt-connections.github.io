@@ -9,55 +9,40 @@ Organizations can include company background information, which skills they are 
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
-## Current Status
+## User Guide
+To get started, click "Log-in" on the landing page to set up an account, and select "Register":
 
-So far, we have a landing page and four mockup pages ready for viewing.
-
-Landing Page <br/>
 <a href="link"><img src="LandingPage.png"/></a> 
 
-Student Home Page (mockup) <br/>
-<a href="link"><img src="StudentHomePageMockup.png"/></a>
+Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization:
 
-Student Profile Page (mockup) <br/>
-<a href="link"><img src="StudentProfilePageMockup.png"/></a>
-
-Company Home Page (mockup) <br/>
-<a href="link"><img src="CompanyHomePageMockup.png"/></a>
-
-Company Profile Page (mockup) <br/>
-<a href="link"><img src="CompanyProfilePageMockup.png"/></a>
-
-
-
-
-
-## User Guide
-To get started, click "Log-in" on the landing page to set up an account, and select "Register".
-
-<img src="LandingPage.png"/>
-
-Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization.
-
-<img src="SignIn.png"/>
+<a href="link"><img src="SignInPage.png"/></a> - IN PROGRESS
 
 ### For Individuals
-After creating an account, you will be taken to your account profile page.
+After creating an account, you will be taken to your account home page:
 
-<img src="UserAccountHomePage.png"/>
+<a href="link"><img src="StudentHomePageMockup.png"/></a>
+
+To edit your account information, click on your profile icon to access your profile page:
+
+<a href="link"><img src="StudentProfilePageMockup.png"/></a>
 
 Click the "View Listings" tab to view current job and internship listings.
 
-<img src="ViewListings.png"/>
+<a href="link"><img src="ViewListingsMockup.png"/></a> - IN PROGRESS
 
 ### For Organizations
-After creating an account, you will be taken to your account profile page.
+After creating an account, you will be taken to your organization's account home page:
 
-<img src="CompanyAccountHomePage.png"/>
+<a href="link"><img src="CompanyHomePageMockup.png"/></a>
 
-Click the "Browse Profiles" tab to view prospective candidates.
+To edit your account information, click on your profile icon to access your profile page:
 
-<img src="BrowseProfiles.png"/>
+<a href="link"><img src="CompanyProfilePageMockup.png"/></a>
+
+Click the "Browse Profiles" tab to view prospective candidates:
+
+<a href="link"><img src="BrowseProfilesMockup.png"/></a> - IN PROGRESS
 
 ## Development Guide
 blah blah blah
