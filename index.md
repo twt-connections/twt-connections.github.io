@@ -1,6 +1,5 @@
-# RecruitingGrounds
-### by TWT Connections
-
+# RecruitingGrounds ### by TWT Connections
+## About
 For the computing professional, finding the right job-placement is a challenge. For computing firms, finding the right candidates at the right time is just as difficult. RecruitingGrounds connects employers with future employees and potential interns with mentors, allowing for individuals and organizations to seek one another out based on qualifications and needs in a user-friendly and convenient fashion.
 
 <img src="LandingPage.png"/>
