@@ -13,19 +13,19 @@ For job postings or information about an upcoming internship, organizations can 
 
 So far, we have a landing page and four mockup pages ready for viewing.
 
-Landing Page
+Landing Page <br/>
 <a href="link"><img src="LandingPage.png"/></a> 
 
-Student Home Page (mockup)
+Student Home Page (mockup) <br/>
 <a href="link"><img src="StudentHomePageMockup.png"/></a>
 
-Student Profile Page (mockup)
+Student Profile Page (mockup) <br/>
 <a href="link"><img src="StudentProfilePageMockup.png"/></a>
 
-Company Home Page (mockup)
+Company Home Page (mockup) <br/>
 <a href="link"><img src="CompanyHomePageMockup.png"/></a>
 
-Company Profile Page (mockup)
+Company Profile Page (mockup) <br/>
 <a href="link"><img src="CompanyProfilePageMockup.png"/></a>
 
 
