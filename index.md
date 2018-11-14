@@ -12,8 +12,31 @@ Organizations can include company background information, which skills they are 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
 ## User Guide
-blah blah blah
-Screenshots + Links
+To get started, click "Log-in" on the landing page to set up an account, and select "Register".
+
+<img src="LandingPage.png"/>
+
+Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization.
+
+<img src="SignIn.png"/>
+
+### For Individuals
+After creating an account, you will be taken to your account profile page.
+
+<img src="UserAccountHomePage.png"/>
+
+Click the "View Listings" tab to view current job and internship listings.
+
+<img src="ViewListings.png"/>
+
+### For Organizations
+After creating an account, you will be taken to your account profile page.
+
+<img src="CompanyAccountHomePage.png"/>
+
+Click the "Browse Profiles" tab to view prospective candidates.
+
+<img src="BrowseProfiles.png"/>
 
 ## Development Guide
 blah blah blah
