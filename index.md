@@ -17,7 +17,7 @@ Organizations can include company background information, which skills they are 
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
-Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
+Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a> <br/>
 Current Milestone (M2): https://github.com/twt-connections/recruiting-grounds/projects/2
 
 ### Completed Milestones
