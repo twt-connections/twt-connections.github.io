@@ -9,6 +9,29 @@ Organizations can include company background information, which skills they are 
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
+## Current Status
+
+So far, we have a landing page and four mockup pages ready for viewing.
+
+Landing Page
+<a href="link"><img src="LandingPage.png"/></a> 
+
+Student Home Page (mockup)
+<a href="link"><img src="StudentHomePageMockup.png"/></a>
+
+Student Profile Page (mockup)
+<a href="link"><img src="StudentProfilePageMockup.png"/></a>
+
+Company Home Page (mockup)
+<a href="link"><img src="CompanyHomePageMockup.png"/></a>
+
+Company Profile Page (mockup)
+<a href="link"><img src="CompanyProfilePageMockup.png"/></a>
+
+
+
+
+
 ## User Guide
 To get started, click "Log-in" on the landing page to set up an account, and select "Register".
 
