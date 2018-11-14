@@ -27,7 +27,7 @@ To edit your account information, click on your profile icon to access your prof
 
 <a href="link"><img src="StudentProfilePageMockup.png"/></a>
 
-Click the "View Listings" tab to view current job and internship listings.
+Click the "View Listings" tab to view current job and internship listings:
 
 <a href="link"><img src="ViewListingsMockup.png"/></a> - IN PROGRESS
 
