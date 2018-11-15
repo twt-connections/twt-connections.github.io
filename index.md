@@ -12,7 +12,7 @@ For job postings or information about an upcoming internship, organizations can 
 ## User Guide
 To get started, click "Log-in" on the landing page to set up an account, and select "Register":
 
-<a href="link"><img src="images/LandingPage.png"/></a> 
+<a href="link"><img src="/images/LandingPage.png"/></a> 
 
 Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization:
 
