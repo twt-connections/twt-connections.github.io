@@ -51,11 +51,11 @@ Next download a copy of the <a href="https://github.com/twt-connections/recruiti
 
 Then cd into the app directory and install the libraries using:
 
-```$ meteor npm install```
+`$ meteor npm install`
 
 Once the libraries are installed, you can run the application by invoking:
 
-```$ meteor npm run start```
+`$ meteor npm run start`
 
 Note regarding bcrypt warning. You will also get the following message when you run this application:
 
@@ -76,7 +76,7 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 Lastly, you can run ESLint over the code in the imports/ directory with:
 
-```meteor npm run lint```
+`$ meteor npm run lint`
 
 ### TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney <br/>
