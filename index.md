@@ -16,7 +16,7 @@ To get started, click "Log-in" on the landing page to set up an account, and sel
 
 Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization:
 
-<a href="link"><img src="/images/SignInPage.png"/></a> - IN PROGRESS
+<a href="link"><img src="/images/SignInPage.png"/></a>
 
 ### For Individuals
 After creating an account, you will be taken to your account home page:
