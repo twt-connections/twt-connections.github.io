@@ -38,7 +38,7 @@ After creating an account, you will be taken to your organization's account home
 
 To edit your account information, click on your profile icon to access your profile page:
 
-<a href="link"><img src="CompanyProfilePageMockup.jpeg"/></a>
+<a href="link"><img src="/images/CompanyProfilePageMockup.jpeg"/></a>
 
 Click the "Browse Profiles" tab to view prospective candidates:
 
