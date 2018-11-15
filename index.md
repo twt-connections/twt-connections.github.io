@@ -45,9 +45,9 @@ Click the "Browse Profiles" tab to view prospective candidates:
 <a href="link"><img src="BrowseProfilesMockup.png"/></a> - IN PROGRESS
 
 ## Development Guide
-First install <a href="https://www.meteor.com/install">meteor</a>
+First install <a href="https://www.meteor.com/install">meteor</a>.
 
-Next download a copy of the <a href="https://github.com/twt-connections/recruiting-grounds">recruiting-grounds repo</a>
+Next download a copy of the <a href="https://github.com/twt-connections/recruiting-grounds">recruiting-grounds repo</a>.
 
 Then cd into the app directory and install the libraries using:
 
