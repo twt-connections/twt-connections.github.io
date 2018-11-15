@@ -16,16 +16,16 @@ To get started, click "Log-in" on the landing page to set up an account, and sel
 
 Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization:
 
-<a href="link"><img src="SignInPage.png"/></a> - IN PROGRESS
+<a href="link"><img src="/imagesSignInPage.png"/></a> - IN PROGRESS
 
 ### For Individuals
 After creating an account, you will be taken to your account home page:
 
-<a href="link"><img src="StudentHomePageMockup.png"/></a>
+<a href="link"><img src="/imagesStudentHomePageMockup.png"/></a>
 
 To edit your account information, click on your profile icon to access your profile page:
 
-<a href="link"><img src="StudentProfilePageMockup.png"/></a>
+<a href="link"><img src="/imagesStudentProfilePageMockup.png"/></a>
 
 Click the "View Listings" tab to view current job and internship listings:
 
@@ -34,7 +34,7 @@ Click the "View Listings" tab to view current job and internship listings:
 ### For Organizations
 After creating an account, you will be taken to your organization's account home page:
 
-<a href="link"><img src="CompanyHomePageMockup.png"/></a>
+<a href="link"><img src="/imagesCompanyHomePageMockup.png"/></a>
 
 To edit your account information, click on your profile icon to access your profile page:
 
