@@ -82,7 +82,9 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a> <br/>
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a> <br/>
-Current Milestone (M2): <a href="https://github.com/twt-connections/recruiting-grounds/projects/2">https://github.com/twt-connections/recruiting-grounds/projects/2<a/>
+Current Milestone (M3): <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">https://github.com/twt-connections/recruiting-grounds/projects/3<a/>
 
 ### Completed Milestones
+
 First Milestone (M1): <a href="https://github.com/twt-connections/connections/projects/1">https://github.com/twt-connections/connections/projects/1</a>
+Second Milestone (M2): <a href="https://github.com/twt-connections/recruiting-grounds/projects/2">https://github.com/twt-connections/recruiting-grounds/projects/2<a/>
