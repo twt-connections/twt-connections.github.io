@@ -38,7 +38,7 @@ Click the "Browse Listings" tab to view current job and internship listings:
 ### For Organizations
 After creating an account, you will be taken to your organization's account home page:
 
-<a href="link"><img src="/CompanyHomePage.jpeg"/></a>
+<a href="link"><img src="/images/CompanyHomePage.jpeg"/></a>
 
 To edit your account information, click on your profile icon to access your profile page:
 
