@@ -23,28 +23,30 @@ Enter your email address, choose a password, and select your account type depend
 ### For Individuals
 After creating an account, you will be taken to your account home page:
 
-<a href="link"><img src="/images/StudentHomePageMockup.jpeg"/></a>
+<a href="link"><img src="/images/StudentHomePage.jpeg"/></a>
 
 To edit your account information, click on your profile icon to access your profile page:
 
-<a href="link"><img src="/images/StudentProfilePageMockup.jpeg"/></a>
+<a href="link"><img src="/images/StudentProfilePage.jpeg"/></a>
 
 Click the "View Listings" tab to view current job and internship listings:
 
-<a href="link"><img src="ViewListingsMockup.png"/></a> - IN PROGRESS
+<a href="link"><img src="ViewListings.png"/></a> - IN PROGRESS
+
+
 
 ### For Organizations
 After creating an account, you will be taken to your organization's account home page:
 
-<a href="link"><img src="/images/CompanyHomePageMockup.jpeg"/></a>
+<a href="link"><img src="/images/CompanyHomePage.jpeg"/></a>
 
 To edit your account information, click on your profile icon to access your profile page:
 
-<a href="link"><img src="/images/CompanyProfilePageMockup.jpeg"/></a>
+<a href="link"><img src="/images/CompanyProfilePage.jpeg"/></a>
 
 Click the "Browse Profiles" tab to view prospective candidates:
 
-<a href="link"><img src="BrowseProfilesMockup.png"/></a> - IN PROGRESS
+<a href="link"><img src="BrowseProfiles.png"/></a> - IN PROGRESS
 
 ## Development Guide
 First install <a href="https://www.meteor.com/install">meteor</a>.
