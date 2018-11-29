@@ -31,7 +31,7 @@ To edit your account information, click on your profile icon to access your prof
 
 Click the "Browse Listings" tab to view current job and internship listings:
 
-<a href="link"><img src="BrowseListings.jpeg"/></a>
+<a href="link"><img src="/images/BrowseListings.jpeg"/></a>
 
 
 
@@ -46,7 +46,7 @@ To edit your account information, click on your profile icon to access your prof
 
 Click the "Browse Profiles" tab to view prospective candidates:
 
-<a href="link"><img src="BrowseProfiles.jpeg"/></a>
+<a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
 ## Development Guide
 First install <a href="https://www.meteor.com/install">meteor</a>.
