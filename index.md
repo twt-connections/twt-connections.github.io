@@ -12,9 +12,9 @@ For job postings or information about an upcoming internship, organizations can 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
 ## User Guide
-To get started, click "Log-in" on the landing page to set up an account, and select "Register":
+To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
 
-<a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage.jpeg"/></a> 
+<a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage2.jpeg"/></a> 
 
 Enter your email address, choose a password, and select your account type depending on whether you are an individual or an organization:
 
@@ -29,9 +29,9 @@ To edit your account information, click on your profile icon to access your prof
 
 <a href="link"><img src="/images/StudentProfilePage.jpeg"/></a>
 
-Click the "View Listings" tab to view current job and internship listings:
+Click the "Browse Listings" tab to view current job and internship listings:
 
-<a href="link"><img src="ViewListings.png"/></a> - IN PROGRESS
+<a href="link"><img src="BrowseListings.jpeg"/></a>
 
 
 
@@ -46,7 +46,7 @@ To edit your account information, click on your profile icon to access your prof
 
 Click the "Browse Profiles" tab to view prospective candidates:
 
-<a href="link"><img src="BrowseProfiles.png"/></a> - IN PROGRESS
+<a href="link"><img src="BrowseProfiles.jpeg"/></a>
 
 ## Development Guide
 First install <a href="https://www.meteor.com/install">meteor</a>.
