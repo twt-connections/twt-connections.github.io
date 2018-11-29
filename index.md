@@ -9,6 +9,8 @@ Organizations can include company background information, which skills they are 
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
 
+Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
+
 ## User Guide
 To get started, click "Log-in" on the landing page to set up an account, and select "Register":
 
@@ -82,8 +84,6 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
-<br/>
-Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 <br/>
 Current Milestone (M3): <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">https://github.com/twt-connections/recruiting-grounds/projects/3<a/>
 
