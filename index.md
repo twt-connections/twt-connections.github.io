@@ -83,6 +83,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 # Development Guide
 ## First Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/1">GitHub Repository</a> 
+<br />
 To begin our project, we installed a standard Meteor web application template from which to work.
 <br />
 After this, we made some basic mockup pages for what we thought might appear in the finished app, such as:
@@ -112,4 +113,3 @@ Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
 <br/>
-Current Milestone (M3): <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">https://github.com/twt-connections/recruiting-grounds/projects/3<a/>
