@@ -1,12 +1,12 @@
 <ul>
-  <li>Overview</li>
+  <li><a href="#overview">Overview</a>/li>
   <li><a href="#userGuide">User Guide</a></li>
-  <li>Development Guide</li>
-  <li>Development History</li>
+  <li><a href="devGuide">Development Guide</a></li>
+  <li><a href="devHistory">Development History</a></li>
+  <li><a href="contact">Contact</a></li>
 </ul>
-  
 
-# Overview
+<h1 id="overview">Overview</h1>
 For the computing professional, finding the right job-placement is a challenge. For computing firms, finding the right candidates at the right time is just as difficult. RecruitingGrounds connects employers with future employees and potential interns with mentors, allowing for individuals and organizations to seek one another out based on qualifications and needs in a user-friendly and convenient fashion.
 
 Students and professionals looking for a good fit for their particular skill set can easily create a profile and find matching listings by organizations actively recruiting candidates for that skill, and vice versa. Both individuals and organizations provide information necessary for making the right match. 
@@ -54,7 +54,7 @@ Click the "Browse Profiles" tab to view prospective candidates:
 
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
-# Development Guide
+<h1 id="devGuide">Development Guide</h1>
 First install <a href="https://www.meteor.com/install">meteor</a>.
 
 Next download a copy of the <a href="https://github.com/twt-connections/recruiting-grounds">recruiting-grounds repo</a>.
@@ -88,7 +88,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
 
-# Development History
+<h1 id="devHistory">Development History</h1>
 ### First Milestone
 To begin our project, we installed a standard Meteor web application template from which to work.
 <br />
@@ -122,7 +122,8 @@ We also were able to implement some other minor adjustments, such as adding back
 ### Third Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 
-## TWT Connections
+<h2 id="contact">Contact</h2>
+### TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
