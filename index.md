@@ -122,8 +122,8 @@ We also were able to implement some other minor adjustments, such as adding back
 ### Third Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 
-<h2 id="contact">Contact</h2>
-### TWT Connections
+<h3 id="contact">Contact</h3>
+<h4>TWT Connections</h4>
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
