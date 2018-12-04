@@ -1,8 +1,8 @@
 <ul>
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#userGuide">User Guide</a></li>
-  <li><a href="devGuide">Development Guide</a></li>
-  <li><a href="devHistory">Development History</a></li>
+  <li><a href="#userguide">User Guide</a></li>
+  <li><a href="devguide">Development Guide</a></li>
+  <li><a href="devhistory">Development History</a></li>
   <li><a href="contact">Contact</a></li>
 </ul>
 
@@ -19,7 +19,7 @@ For job postings or information about an upcoming internship, organizations can 
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
-<h1 id="userGuide">User Guide</h1>
+<h1 id="userguide">User Guide</h1>
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
 
 <a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage2.jpeg"/></a> 
@@ -54,7 +54,7 @@ Click the "Browse Profiles" tab to view prospective candidates:
 
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
-<h1 id="devGuide">Development Guide</h1>
+<h1 id="devguide">Development Guide</h1>
 
 First install <a href="https://www.meteor.com/install">meteor</a>.
 
@@ -89,7 +89,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
 
-<h1 id="devHistory">Development History</h1>
+<h1 id="devhistory">Development History</h1>
 
 <h3>First Milestone</h3>
 To begin our project, we installed a standard Meteor web application template from which to work.
