@@ -16,6 +16,7 @@ Individuals can include personal interests or areas they would like to develop, 
 Organizations can include company background information, which skills they are currently in need of, salary, and the workplace environment candidates will be placed in.
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
+<a href="https://twt-connections.github.io">back to top^</a>
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
