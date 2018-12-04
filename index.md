@@ -84,15 +84,23 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 ## First Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/1">GitHub Repository</a> 
 To begin our project, we installed a standard Meteor web application template from which to work.
-After this, we made some basic mockup pages for what we thought might appear in the finished app, such as: 
+<br />
+After this, we made some basic mockup pages for what we thought might appear in the finished app, such as:
+<br />
 -- a Student Home page
+<br />
 -- a Student Profile page
+<br />
 -- a Company Home page
+<br />
 -- a Company Profile page
+<br />
 -- an Admin Home page
+<br />
 At this point, though none of these pages were functional, we were able to link them together internally, as well as a create a basic Landing Page from which to sign in and register new accounts.
+<br />
 Finally, we deployed this first version of the project to Galaxy.
-
+<br />
 ## Second Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/2">GitHub Repository<a/>
 
