@@ -1,9 +1,9 @@
 <ul>
   <li><a href="#overview">Overview</a></li>
   <li><a href="#userguide">User Guide</a></li>
-  <li><a href="devguide">Development Guide</a></li>
-  <li><a href="devhistory">Development History</a></li>
-  <li><a href="contact">Contact</a></li>
+  <li><a href="#devguide">Development Guide</a></li>
+  <li><a href="#devhistory">Development History</a></li>
+  <li><a href="#contact">Contact</a></li>
 </ul>
 
 <h1 id="overview">Overview</h1>
