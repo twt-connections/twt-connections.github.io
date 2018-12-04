@@ -3,6 +3,7 @@
   <li><a href="#userguide">User Guide</a></li>
   <li><a href="#devguide">Development Guide</a></li>
   <li><a href="#devhistory">Development History</a></li>
+  <li><a href="feedback">Community Feedback</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -131,6 +132,12 @@ We also were able to implement some other minor adjustments, such as adding back
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 <br/>
 <a href="https://twt-connections.github.io">Back to top</a>
+
+<h1 id="feedback">Community Feedback</h1>
+blah blah blah
+<br/>
+<a href="https://twt-connections.github.io">Back to top</a>
+
 
 <h3 id="contact">Contact - TWT Connections</h3>
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
