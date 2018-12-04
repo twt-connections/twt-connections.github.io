@@ -1,6 +1,6 @@
 <ul>
   <li>Overview</li>
-  <li>User Guide</li>
+  <li><a href="#userGuide">User Guide</a></li>
   <li>Development Guide</li>
   <li>Development History</li>
 </ul>
@@ -19,7 +19,7 @@ For job postings or information about an upcoming internship, organizations can 
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
-# User Guide
+<a id="userGuide"><h1>User Guide</h1></a>
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
 
 <a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage2.jpeg"/></a> 
