@@ -82,12 +82,22 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 
 # Development Guide
 ## First Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/1">https://github.com/twt-connections/connections/projects/1</a> 
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/1">GitHub Repository</a> 
+To begin our project, we installed a standard Meteor web application template from which to work.
+After this, we made some basic mockup pages for what we thought might appear in the finished app, such as: 
+-- a Student Home page
+-- a Student Profile page
+-- a Company Home page
+-- a Company Profile page
+-- an Admin Home page
+At this point, though none of these pages were functional, we were able to link them together internally, as well as a create a basic Landing Page from which to sign in and register new accounts.
+Finally, we deployed this first version of the project to Galaxy.
+
 ## Second Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/2">https://github.com/twt-connections/recruiting-grounds/projects/2<a/>
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/2">GitHub Repository<a/>
 
 ## Third Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/3">https://github.com/twt-connections/recruiting-grounds/projects/3<a/>
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/3">GitHub Repository<a/>
 
 # TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
