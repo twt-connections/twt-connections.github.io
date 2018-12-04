@@ -55,6 +55,7 @@ Click the "Browse Profiles" tab to view prospective candidates:
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
 <h1 id="devGuide">Development Guide</h1>
+
 First install <a href="https://www.meteor.com/install">meteor</a>.
 
 Next download a copy of the <a href="https://github.com/twt-connections/recruiting-grounds">recruiting-grounds repo</a>.
@@ -89,6 +90,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 `$ meteor npm run lint`
 
 <h1 id="devHistory">Development History</h1>
+
 <h3>First Milestone</h3>
 To begin our project, we installed a standard Meteor web application template from which to work.
 <br />
