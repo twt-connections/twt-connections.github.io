@@ -19,7 +19,7 @@ For job postings or information about an upcoming internship, organizations can 
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 <br />
-<a href="https://twt-connections.github.io">back to top</a>
+<a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="userguide">User Guide</h1>
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
@@ -56,8 +56,7 @@ Click the "Browse Profiles" tab to view prospective candidates:
 
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
-<br />
-<a href="https://twt-connections.github.io">back to top</a>
+<a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="devguide">Development Guide</h1>
 
@@ -94,7 +93,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
 <br />
-<a href="https://twt-connections.github.io">back to top</a>
+<a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="devhistory">Development History</h1>
 
@@ -130,10 +129,12 @@ We also were able to implement some other minor adjustments, such as adding back
 
 <h3>Third Milestone</h3>
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
+<br/>
+<a href="https://twt-connections.github.io">Back to top</a>
 
 <h3 id="contact">Contact - TWT Connections</h3>
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
 <br/>
-<a href="https://twt-connections.github.io">back to top</a>
+<a href="https://twt-connections.github.io">Back to top</a>
