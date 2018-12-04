@@ -16,9 +16,10 @@ Individuals can include personal interests or areas they would like to develop, 
 Organizations can include company background information, which skills they are currently in need of, salary, and the workplace environment candidates will be placed in.
 
 For job postings or information about an upcoming internship, organizations can create a posting with all of the relevant information, and allow interested candidates to apply or seek further information. Similarly, companies actively seeking out a particular skill set or qualifications can send recruiting information to individual candidates directly.
-<a href="https://twt-connections.github.io">back to top^</a>
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
+<br />
+<a href="https://twt-connections.github.io">back to top</a>
 
 <h1 id="userguide">User Guide</h1>
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
@@ -55,6 +56,9 @@ Click the "Browse Profiles" tab to view prospective candidates:
 
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
+<br />
+<a href="https://twt-connections.github.io">back to top</a>
+
 <h1 id="devguide">Development Guide</h1>
 
 First install <a href="https://www.meteor.com/install">meteor</a>.
@@ -89,6 +93,8 @@ If all goes well, the template application will appear at http://localhost:3000.
 Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
+<br />
+<a href="https://twt-connections.github.io">back to top</a>
 
 <h1 id="devhistory">Development History</h1>
 
@@ -130,3 +136,4 @@ Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
 <br/>
+<a href="https://twt-connections.github.io">back to top</a>
