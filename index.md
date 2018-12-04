@@ -19,7 +19,7 @@ For job postings or information about an upcoming internship, organizations can 
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
-<a id="userGuide"><h1>User Guide</h1></a>
+<h1><a id="userGuide">User Guide</a></h1>
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
 
 <a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage2.jpeg"/></a> 
