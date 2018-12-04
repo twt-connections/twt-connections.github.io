@@ -31,7 +31,7 @@ Enter your email address, choose a password, and select your account type depend
 
 <a href="link"><img src="/images/SignInPage.jpeg"/></a>
 
-<h2>For Individuals</h2>
+<h3>For Individuals</h3>
 After creating an account, you will be taken to your account home page:
 
 <a href="link"><img src="/images/StudentHomePage.jpeg"/></a>
@@ -44,7 +44,7 @@ Click the "Browse Listings" tab to view current job and internship listings:
 
 <a href="link"><img src="/images/BrowseListings.jpeg"/></a>
 
-<h2>For Organizations</h2>
+<h3>For Organizations</h3>
 After creating an account, you will be taken to your organization's account home page:
 
 <a href="link"><img src="/images/CompanyHomePage.jpeg"/></a>
