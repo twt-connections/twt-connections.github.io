@@ -1,3 +1,11 @@
+<ul>
+  <li>Overview</li>
+  <li>User Guide</li>
+  <li>Development Guide</li>
+  <li>Development History</li>
+</ul>
+  
+
 # Overview
 For the computing professional, finding the right job-placement is a challenge. For computing firms, finding the right candidates at the right time is just as difficult. RecruitingGrounds connects employers with future employees and potential interns with mentors, allowing for individuals and organizations to seek one another out based on qualifications and needs in a user-friendly and convenient fashion.
 
@@ -114,7 +122,7 @@ We also were able to implement some other minor adjustments, such as adding back
 ### Third Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 
-# TWT Connections
+## TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
