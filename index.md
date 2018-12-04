@@ -83,8 +83,6 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 # Development Guide
 
 ## First Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/1">GitHub Repository</a> 
-<br />
 To begin our project, we installed a standard Meteor web application template from which to work.
 <br />
 After this, we made some basic mockup pages for what we thought might appear in the finished app, such as:
@@ -103,19 +101,19 @@ At this point, though none of these pages were functional, we were able to link 
 <br />
 Finally, we deployed this first version of the project to Galaxy.
 <br />
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/1">First Milestone GitHub Repository</a> 
 
 ## Second Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/2">GitHub Repository<a/>
-<br />
 Our second milestone was our most productive and challenging, as it required something of a "reset" to our plans for moving ahead from our first milestone. The overall goal was to improve the page functionality and connectivity, so it would begin to look and feel more like a working application.
 <br />
 We started as we had before, each working individually on page improvements, but quickly ran into a difficulty: our database system. Without functioning databases, other parts of the site we were working on, such as listing profiles or editing account information, were immensely more difficult. Upon realizing this, we stopped what we were doing, went back and created functioning collections, along with the pages that would load information from these collections appropriately. This was difficult and required a lot of debugging.
 <br />
 We also were able to implement some other minor adjustments, such as adding background images to different pages, and redesiging the Landing Page.
 <br />
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/2">Second Milestone GitHub Repository<a/>
 
 ## Third Milestone
-<a href="https://github.com/twt-connections/recruiting-grounds/projects/3">GitHub Repository<a/>
+<a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 
 # TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
