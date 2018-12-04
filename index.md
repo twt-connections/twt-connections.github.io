@@ -1,5 +1,5 @@
 <ul>
-  <li><a href="#overview">Overview</a>/li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#userGuide">User Guide</a></li>
   <li><a href="devGuide">Development Guide</a></li>
   <li><a href="devHistory">Development History</a></li>
