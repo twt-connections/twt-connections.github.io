@@ -1,4 +1,4 @@
-### Overview
+# Overview
 For the computing professional, finding the right job-placement is a challenge. For computing firms, finding the right candidates at the right time is just as difficult. RecruitingGrounds connects employers with future employees and potential interns with mentors, allowing for individuals and organizations to seek one another out based on qualifications and needs in a user-friendly and convenient fashion.
 
 Students and professionals looking for a good fit for their particular skill set can easily create a profile and find matching listings by organizations actively recruiting candidates for that skill, and vice versa. Both individuals and organizations provide information necessary for making the right match. 
@@ -11,7 +11,7 @@ For job postings or information about an upcoming internship, organizations can 
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 
-### User Guide
+# User Guide
 To get started, click "Log-in" on the landing page to set up an account, and select "Sign Up":
 
 <a href="http://recruitinggrounds.meteorapp.com"><img src="/images/LandingPage2.jpeg"/></a> 
@@ -46,7 +46,7 @@ Click the "Browse Profiles" tab to view prospective candidates:
 
 <a href="link"><img src="/images/BrowseProfiles.jpeg"/></a>
 
-### Development Guide
+# Development Guide
 First install <a href="https://www.meteor.com/install">meteor</a>.
 
 Next download a copy of the <a href="https://github.com/twt-connections/recruiting-grounds">recruiting-grounds repo</a>.
@@ -80,7 +80,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
 
-### Development Guide
+# Development Guide
 ## First Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/1">https://github.com/twt-connections/connections/projects/1</a> 
 ## Second Milestone
@@ -89,7 +89,7 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 ## Third Milestone
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">https://github.com/twt-connections/recruiting-grounds/projects/3<a/>
 
-### TWT Connections
+# TWT Connections
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
