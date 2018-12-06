@@ -156,7 +156,7 @@ Finally, we redeployed the final version of the application to Galaxy.
 <br />
 <u>Anonymous User 5:</u>
 <br />
-<em>"..."</em>
+<em>"...Try and make the pages more distinguishable from each other, right now it's kind of just a mesh of the same looking page..."</em>
 <br />
 <a href="https://twt-connections.github.io">Back to top</a>
 
