@@ -146,11 +146,11 @@ For the last Milestone, after finally debugging the Student collection, we were 
 <br />
 <u>Anonymous User 3:</u>
 <br />
-<em>"... "</em>
+<em>"...looks nice and seems pretty helpful to students that could use it. It would be better if there were more options. "</em>
 <br />
 <u>Anonymous User 4:</u>
 <br />
-<em>"..."</em>
+<em>"...i really liked how it was simple to use, but it doesn't feel like it would attract a lot of companies."</em>
 <br />
 <u>Anonymous User 5:</u>
 <br />
