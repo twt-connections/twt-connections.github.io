@@ -93,7 +93,6 @@ If all goes well, the template application will appear at http://localhost:3000.
 Lastly, you can run ESLint over the code in the imports/ directory with:
 
 `$ meteor npm run lint`
-
 <br />
 <a href="https://twt-connections.github.io">Back to top</a>
 
