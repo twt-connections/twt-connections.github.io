@@ -136,13 +136,13 @@ For the last Milestone, after finally debugging the Student collection, we were 
 <a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="feedback">Community Feedback</h1>
-<em>Anonymous User 1:</em>
+<u>Anonymous User 1:</u>
 <br />
-"...should have a different picture for background because text is hard to see... separate designs for student home and company home... more creative profile names..."
+<em>"...should have a different picture for background because text is hard to see... separate designs for student home and company home... more creative profile names..."</em>
 <br/>
 Anonymous User 2:
 <br />
-"...your website is clean, and pretty user friendly. I just wish that more of the buttons worked."
+<em>"...your website is clean, and pretty user friendly. I just wish that more of the buttons worked."</em>
 <br />
 Anonymous User 3:
 <br />
