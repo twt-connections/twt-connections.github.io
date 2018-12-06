@@ -122,22 +122,40 @@ Finally, we deployed this first version of the project to Galaxy.
 <h3>Second Milestone</h3>
 Our second milestone was our most productive and challenging, as it required something of a "reset" to our plans for moving ahead from our first milestone. The overall goal was to improve the page functionality and connectivity, so it would begin to look and feel more like a working application.
 <br />
-We started as we had before, each working individually on page improvements, but quickly ran into a difficulty: our database system. Without functioning databases, other parts of the site we were working on, such as listing profiles or editing account information, were immensely more difficult. Upon realizing this, we stopped what we were doing, went back and created functioning collections, along with the pages that would load information from these collections appropriately. This was difficult and required a lot of debugging.
+We started as we had before, each working individually on page improvements, but quickly ran into a difficulty: our database system. Without functioning databases, other parts of the site we were working on, such as listing profiles or editing account information, were immensely more difficult. Upon realizing this, we stopped what we were doing, went back and created functioning collections, one for Student profiles and one for Company profiles, along with the pages that would load information from these collections appropriately. This was difficult and required a lot of debugging, and only one of the collections, the Company collection (and it's accompanying page) loaded properly by the end of this Milestone.
 <br />
 We also were able to implement some other minor adjustments, such as adding background images to different pages, and redesiging the Landing Page.
 <br />
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/2">Second Milestone GitHub Repository<a/>
 
 <h3>Third Milestone</h3>
+For the last Milestone, after finally debugging the Student collection, we were able to successfully implement our Account information pages, where editing of user information would take place. After this, we edited the default account information for Student and Profiles, as well as changed some of the button configurations to fit more in-line with our original conception of the site. We also removed excess code.
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 <br/>
 <a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="feedback">Community Feedback</h1>
-blah blah blah
+Anonymous User 1:
+<br />
+"...should have a different picture for background because text is hard to see... separate designs for student home and company home... more creative profile names..."
 <br/>
+Anonymous User 2:
+<br />
+"...your website is clean, and pretty user friendly. I just wish that more of the buttons worked."
+<br />
+Anonymous User 3:
+<br />
+"... "
+<br />
+Anonymous User 4:
+<br />
+"..."
+<br />
+Anonymous User 5:
+<br />
+"...your website is clean, and pretty user friendly. I just wish that more of the buttons worked."
+<br />
 <a href="https://twt-connections.github.io">Back to top</a>
-
 
 <h3 id="contact">Contact - TWT Connections</h3>
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
