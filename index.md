@@ -130,12 +130,13 @@ We also were able to implement some other minor adjustments, such as adding back
 
 <h3>Third Milestone</h3>
 For the last Milestone, after finally debugging the Student collection, we were able to successfully implement our Account information pages, where editing of user information would take place. After this, we edited the default account information for Student and Profiles, as well as changed some of the button configurations to fit more in-line with our original conception of the site. We also removed excess code.
+<br />
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 <br/>
 <a href="https://twt-connections.github.io">Back to top</a>
 
 <h1 id="feedback">Community Feedback</h1>
-Anonymous User 1:
+<em>Anonymous User 1:</em>
 <br />
 "...should have a different picture for background because text is hard to see... separate designs for student home and company home... more creative profile names..."
 <br/>
