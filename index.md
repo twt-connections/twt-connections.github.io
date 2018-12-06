@@ -126,12 +126,14 @@ Our second milestone was our most productive and challenging, as it required som
 <br />
 We started as we had before, each working individually on page improvements, but quickly ran into a difficulty: our database system. Without functioning databases, other parts of the site we were working on, such as listing profiles or editing account information, were immensely more difficult. Upon realizing this, we stopped what we were doing, went back and created functioning collections, one for Student profiles and one for Company profiles, along with the pages that would load information from these collections appropriately. This was difficult and required a lot of debugging, and only one of the collections, the Company collection (and it's accompanying page) loaded properly by the end of this Milestone.
 <br />
-We also were able to implement some other minor adjustments, such as adding background images to different pages, and redesiging the Landing Page.
+We also were able to implement some other minor adjustments, such as adding background images to different pages, and redesiging the Landing Page. Eventually, we redeployed to Galaxy.
 
 <h3>Third Milestone</h3>
 <a href="https://github.com/twt-connections/recruiting-grounds/projects/3">Third Milestone GitHub Repository<a/>
 <br/>
-For the last Milestone, after finally debugging the Student collection, we were able to successfully implement our Account information pages, where editing of user information would take place. After this, we edited the default account information for Student and Profiles, as well as changed some of the button configurations to fit more in-line with our original conception of the site. We also removed excess code.
+For the last Milestone, after finally debugging the Student collection, we were able to successfully implement our Account information pages, where editing of user information would take place. After this, we edited the default account information for Student and Profiles, as well as changed some of the button configurations to fit more in-line with our original conception of the site. We also removed excess code and added some different background images.
+<br />
+Finally, we redeployed the final version of the application to Galaxy.
 <br />
 <a href="https://twt-connections.github.io">Back to top</a>
 
@@ -150,7 +152,7 @@ For the last Milestone, after finally debugging the Student collection, we were 
 <br />
 <u>Anonymous User 4:</u>
 <br />
-<em>"...i really liked how it was simple to use, but it doesn't feel like it would attract a lot of companies."</em>
+<em>"...I really liked how it was simple to use, but it doesn't feel like it would attract a lot of companies."</em>
 <br />
 <u>Anonymous User 5:</u>
 <br />
